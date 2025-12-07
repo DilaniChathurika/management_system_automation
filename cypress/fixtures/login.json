@@ -1,0 +1,14 @@
+{
+    "valid":{
+        "email":"admin@susitk.com",
+        "password":"12345678"
+    },
+    "invalid":{
+        "email":"admin@test.com",
+        "password":"12345678"
+    },
+    "incorrect":{
+        "email":"admin@susitkcom",
+        "password":"12345678"
+    }
+}
